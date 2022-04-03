@@ -1,0 +1,31 @@
+.c-contador{
+    display: flex;
+    justify-content: center;
+   flex-wrap: wrap;
+    margin-top:20px;
+   font-size:20px;
+   gap: 10px;
+   
+}
+
+.c-contador__button{
+   display: flex;
+    justify-content: cente;
+    margin-top:20px;
+   font-size:48px;
+   font-weight:bold;
+   border-radius:16px;
+   background-color: coral;
+    
+}
+
+.c-number{
+
+   display: flex;
+  position: absolute;
+justify-items: center;
+    justify-content: center;
+   font-size:72px;
+margin-top:12rem;
+
+}
